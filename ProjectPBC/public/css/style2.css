@@ -1,0 +1,109 @@
+body{
+  background: url("../img/ELFAhimawariIMG_7129_TP_V.jpg");
+  height: 480px;
+}
+header li{
+  display: inline-block;
+  text-align: left;
+  font-size: 20px;
+  font-style: monospace;
+  border: 3px solid #333;
+  border-radius: 10px;
+  padding: 5px;
+  width:300px;
+  text-align:center;
+  background-color: #FFFF99;
+  text-decoration: none;
+}
+header a{
+  text-decoration: none;
+  color: black;
+}
+
+li:hover{
+  background-color: skyblue;
+}
+header ul{
+  padding: 0;
+  margin: 0;
+  border: 3px solid black;
+  background-color: skyblue;
+}
+header h1{
+  font-size: 40px;
+  margin: 0px;
+  float:left;
+}
+header h2{
+ margin-bottom:60px;
+}
+.unti h1{
+  color: #ff0066;
+  margin-bottom: 0px;
+ font-size: 50px;
+ background-color: black;
+ display: inline-block;
+ border-radius: 10px
+}
+.unti h2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+ font-size: 30px;
+}
+.unti p{
+  margin: 0px;
+}
+.unti2{
+  background-color: white;
+  display: inline-block;
+  font-weight: bold;
+  float:left;
+  border-radius: 20px;
+}
+.unti img{
+  float: right;
+  border-radius: 10px;
+}
+.member{
+  margin-top: 300px;
+  float: left;
+  background-color: #F6CECE;
+  border-radius: 30px
+}
+.member h1{
+  color:#ff0066
+}
+.member img{
+  border-radius: 10px;
+}
+.member1{
+  margin-top: 300px;
+  float: left;
+  background-color: #81F781;
+  border-radius: 30px
+}
+.member1 h1{
+  color:#ff0066
+}
+
+.member1 img{
+  margin-top: 30px;
+  border-radius: 10px;
+}
+.member2{
+  margin-top: 200px;
+  float: left;
+  background-color: #58ACFA;
+  border-radius: 30px
+}
+.member2 h1{
+  color:#ff0066
+}
+
+.member2 img{
+  margin-top: 70px;
+  border-radius: 30px
+}
+.background{
+  background: url(../img/MIYA2018102DSCF8768_TP_V.jpg);
+}
